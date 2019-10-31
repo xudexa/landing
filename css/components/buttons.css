@@ -1,0 +1,14 @@
+.btn-medium {
+  display: inline-block;
+  color: gray;
+  border: 1px solid;
+  color: lightgray;
+  border-color: lightgray;
+  border-radius: 50px;
+  padding: 15px 25px;
+}
+
+.btn-medium:hover {
+  color: gray;
+  border-color: gray;
+}
